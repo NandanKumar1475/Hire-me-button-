@@ -39,3 +39,7 @@
     transform: scaleX(1);
 
 }
+a{
+    text-decoration: none;
+    color: white;
+}
